@@ -1,5 +1,5 @@
 # Customer-Churn-Analysis
-Overview
+Overview:
 This project analyzes customer churn in a telecommunications company. Churn, in this context, refers to the rate at which customers leave or stop using a service over a given time period. Understanding churn is crucial for businesses as it helps them identify factors that contribute to customer attrition and develop strategies to retain them.
 
 Dataset
